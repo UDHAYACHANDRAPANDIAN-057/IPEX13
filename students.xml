@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="newstylesheet.xsl"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<students>
+    <student>
+        <name>Tony</name>
+        <grade>A</grade>
+    </student>
+    <student>
+        <name>Clint</name>
+        <grade>C</grade>
+    </student>
+    <student>
+        <name>Banner</name>
+        <grade>A</grade>
+    </student>
+    <student>
+        <name>Steve</name>
+        <grade>B</grade>
+    </student>
+    <student>
+        <name>Thor</name>
+        <grade>B</grade>
+    </student>
+</students>
